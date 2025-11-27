@@ -1,0 +1,5 @@
+{
+  "name": "SnapStream AI - Long Screenshot Tool",
+  "description": "A powerful screen capture utility for Windows (and other OS) allowing arbitrary length stitching, standard screenshots, and AI-powered content analysis using Gemini 2.5.",
+  "requestFramePermissions": []
+}
